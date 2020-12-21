@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901113759455",
+    "project_id": "smart-remainder-67c45",
+    "storage_bucket": "smart-remainder-67c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901113759455:android:a1a08199c314d8f747cb6a",
+        "android_client_info": {
+          "package_name": "com.sachith.smartremainder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901113759455-v3mig3qf324iaar71ubuq02c0o9dsig7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachith.smartremainder",
+            "certificate_hash": "b83d9f5e6d4af491e7ee997ee57c3cb527d5c077"
+          }
+        },
+        {
+          "client_id": "901113759455-cr233v6q9kb8bud7ki0o0ll4ii7unonl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7Zx-Pu3dS-ntwuwfiSyjhDVoc0dsx7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901113759455-cr233v6q9kb8bud7ki0o0ll4ii7unonl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

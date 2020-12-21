@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Remainder</string>
+    <string name="title_activity_home">Home Activity</string>
+    <string name="title_activity_add_new">My Compose App</string>
+</resources>
