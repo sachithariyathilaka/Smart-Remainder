@@ -1,2 +1,5 @@
 # Smart Remainder
-This is Remainder app using Kotlin &amp; Android Jetpack compose
+This is Remainder application
+
+# Technologies
+Android Jetpack Compose, Kotlin, Android Studio
